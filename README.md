@@ -1,4 +1,4 @@
-# YouTube V2
+# YouTube V2 📺
 
 Welcome to the official repository of YouTube V2!
 
